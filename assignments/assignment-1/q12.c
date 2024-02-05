@@ -38,7 +38,11 @@ int main()
         case '%':
             result=num1%num2;
             break;
+<<<<<<< HEAD
         default:
+=======
+        default:
+>>>>>>> 46ecab6891d98f47966eddb9c141dbb5170445d4
             printf("Invalid operation.\n");
     }
  
